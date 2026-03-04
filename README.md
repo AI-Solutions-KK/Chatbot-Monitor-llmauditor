@@ -112,6 +112,16 @@ User Input → Normal/Intentional Poor → Audit/Score → Accept/Warn/Block
 
 **For complete documentation:** [LLMAuditor GitHub](https://github.com/AI-Solutions-KK/llmauditor) | [PyPI Package](https://pypi.org/project/llmauditor/)
 
+## 🔗 Related Projects  
+
+**Production Applications Using LLMAuditor:**
+- [Multi-Agent Research System](https://github.com/AI-Solutions-KK/Multi-Agent-Research-System-with-LLMAuditor) - AI agent coordination with hallucination detection testing
+- [AI-Powered Daily News App](https://github.com/AI-Solutions-KK/AI-Powered-Daily-News-App-with-LLMAuditor) - Real-time news processing with quality monitoring
+- [RAG Pipeline Auditor](https://github.com/AI-Solutions-KK/llmauditor-rag-audit) - Knowledge base retrieval with governance controls
+- [LLMAuditor Framework](https://github.com/AI-Solutions-KK/llmauditor) - Core AI governance framework
+
+**🎯 Each project demonstrates real-world LLMAuditor integration with production-grade certification**
+
 ---
 
 *🧪 Intentional imperfections prove llmauditor detection works - Silver certification shows realistic governance, not perfect scores.*
